@@ -1,3 +1,3 @@
-<h3>Simple-Python-Projects having robo speaker and weather terminal app which speak and tell your weather</h3>
+<h3>Simple-Python-CLI-Projects</h3>
 <br>
 Some simple python projects
