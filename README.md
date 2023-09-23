@@ -1,3 +1,4 @@
 <h3>Simple-Python-CLI-Projects</h3>
 <br>
-Some simple python projects
+
+Some simple and best project which can be used for basic python understanding you can learn more things after looking into the projects
